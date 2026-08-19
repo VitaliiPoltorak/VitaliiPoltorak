@@ -1,6 +1,6 @@
 # Vitalii Poltorak
 
-Senior Fullstack Engineer (6+ years) — React, Next.js, Node.js, NestJS, TypeScript.
+Senior Fullstack Engineer (5+ years) — React, Next.js, Node.js, NestJS, TypeScript.
 
 I build real-time interfaces, scalable design systems, and AI-assisted
 development workflows.
