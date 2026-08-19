@@ -1,16 +1,26 @@
-## Hi there 👋
+# Vitalii Poltorak
 
-<!--
-**VitaliiPoltorak/VitaliiPoltorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Fullstack Engineer (6+ years) — React, Next.js, Node.js, NestJS, TypeScript.
 
-Here are some ideas to get you started:
+I build real-time interfaces, scalable design systems, and AI-assisted
+development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently building
+
+A personal project — will link here once it's ready to show.
+
+## About this profile
+
+Most of my commercial work lives in private client repositories (outsource/
+agency work, several under NDA), so this profile doesn't reflect the full
+scope of what I've shipped. Happy to walk through the code and architecture
+decisions on a call.
+
+## Stack
+
+React · Next.js · TypeScript · Node.js · NestJS · Zustand · Redux Toolkit ·
+GraphQL · REST · PostgreSQL · MongoDB · Redis · Docker · AWS
+
+## Elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/vitalii-poltorak/
