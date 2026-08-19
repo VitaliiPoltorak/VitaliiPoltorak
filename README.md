@@ -25,4 +25,5 @@ GraphQL · REST · PostgreSQL · MongoDB · Redis · Docker · AWS
 ## Elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/vitalii-poltorak/
-- Djinni: https://djinni.co/q/4443fa13d4/
+- Djinni:   https://djinni.co/q/4443fa13d4/
+- DOU:      https://dou.ua/users/vitaliy-poltorak/
