@@ -7,7 +7,8 @@ development workflows.
 
 ## Currently building
 
-A personal project — will link here once it's ready to show.
+[household](https://github.com/VitaliiPoltorak/household) — a NestJS
+microservices monorepo for family finance & shopping management.
 
 ## About this profile
 
